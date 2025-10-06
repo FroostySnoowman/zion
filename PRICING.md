@@ -5,7 +5,7 @@
 
 ## 🏠 Main Page
 **Est. Hours:** 15  
-**Charge:** $125  
+**Charge:** $187.5  
 
 ---
 
@@ -17,7 +17,7 @@
 
 ## 🔍 Data Validation Layer
 **Est. Hours:** 10  
-**Charge:** $100
+**Charge:** $125
 
 ---
 
